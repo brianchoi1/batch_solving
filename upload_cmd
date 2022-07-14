@@ -1,0 +1,3 @@
+cd scratch/hpc_run_default/3d_3g_25s
+lcd D:\workothers\moldflow_solving
+put D:/workothers/moldflow_solving/3d_3g_25s.sdy

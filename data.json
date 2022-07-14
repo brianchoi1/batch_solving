@@ -1,0 +1,18 @@
+{
+  "hpc_id": "",
+  "hpc_pw": "",
+  "hpc_address": "",
+  "id": "2",
+  "filename": "dfsdfsdfsef.sdy",
+  "ncpu": "8",
+  "run_cmd": "lsdyna ncpu=8 i=dfsdfsdfsef.sdy",
+  "include_file": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874"
+  },
+  "admin": false,
+  "hobbies": null
+}
