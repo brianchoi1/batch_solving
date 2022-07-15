@@ -504,6 +504,9 @@ class Ui_MainWindow(QWidget):
             except:
                 time.sleep(10)
                 continue
+    
+    def solving(self, hpc_path, fname, ncpu):
+        print('dd')
 
     def include_Clicked(self):
         try:
